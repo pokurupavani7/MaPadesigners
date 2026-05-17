@@ -1,0 +1,2 @@
+# MaPadesigners
+Azure practice project
